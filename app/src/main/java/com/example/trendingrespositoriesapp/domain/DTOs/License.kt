@@ -1,4 +1,4 @@
-package com.example.trendingrespositoriesapp.domain
+package com.example.trendingrespositoriesapp.domain.DTOs
 
 data class License(
     val key: String,

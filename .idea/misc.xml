@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/androidProjects/myAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.29010416666666666" />
-        <entry key="..\:/androidProjects/myAndroidApp/app/src/main/res/layout/most_scored_repository_fragment.xml" value="0.29010416666666666" />
-        <entry key="..\:/androidProjects/myAndroidApp/app/src/main/res/layout/most_stared_repository_fragment.xml" value="0.29010416666666666" />
+        <entry key="app/src/main/res/drawable/animation_loading.xml" value="0.14895833333333333" />
+        <entry key="app/src/main/res/layout/fragment_most_stared_repositories.xml" value="0.2388888888888889" />
+        <entry key="app/src/main/res/layout/most_stared_repositories_fragment.xml" value="0.1328125" />
+        <entry key="app/src/main/res/layout/most_stared_repository_Item.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/most_stared_repository_fragment.xml" value="0.25" />
       </map>
     </option>
   </component>

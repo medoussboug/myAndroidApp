@@ -1,4 +1,4 @@
-package com.example.trendingrespositoriesapp.domain
+package com.example.trendingrespositoriesapp.domain.DTOs
 
 data class Owner(
     val avatar_url: String,

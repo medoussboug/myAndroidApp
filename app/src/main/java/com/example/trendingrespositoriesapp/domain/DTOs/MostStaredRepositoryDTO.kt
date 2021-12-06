@@ -1,6 +1,6 @@
-package com.example.trendingrespositoriesapp.domain
+package com.example.trendingrespositoriesapp.domain.DTOs
 
-data class MostScoredRepositoryDTO (
+data class MostStaredRepositoryDTO (
     val id: Int,
     val reprositoryName: String,
     val repositoryDescription: String,
